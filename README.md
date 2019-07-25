@@ -20,3 +20,6 @@ Github README 같이 맨듈기
 
 ## 2. 컨플릭트 내보내기
 - 뭐라한지 못봤어요
+
+## 컨플릭트란?
+참고: https://backlog.com/git-tutorial/kr/stepup/stepup2_7.html
