@@ -23,3 +23,10 @@ Github README 같이 맨듈기
 - 뭐라한지 못봤어요
 
 이걸 어떡하지
+
+## 3. 협업 시작
+
+test.py 
+```python
+print('hello')
+```
